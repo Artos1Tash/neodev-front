@@ -11,6 +11,9 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        lightBeige: "#f5f5dc",
+        navy: "#001f3f",
+        opaqueBlue: "rgba(0, 31, 63, 0.7)",
       },
     },
   },
